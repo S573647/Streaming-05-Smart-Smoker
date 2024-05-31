@@ -1,0 +1,8 @@
+2024-05-30 21:27:15,358.listening_worker.INFO ==================================================
+2024-05-30 21:27:15,359.listening_worker.INFO Today is 2024-05-30 at 09:27 PM
+2024-05-30 21:27:15,360.listening_worker.INFO Running on: nt Windows 11
+2024-05-30 21:27:15,361.listening_worker.INFO Python version:  3.12.1
+2024-05-30 21:27:15,361.listening_worker.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker\.venv
+2024-05-30 21:27:15,362.listening_worker.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker
+2024-05-30 21:27:15,362.listening_worker.INFO ==================================================
+2024-05-30 21:27:15,375.listening_worker.INFO Listening for messages on 3. Press CTRL+C to exit.

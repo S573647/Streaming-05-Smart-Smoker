@@ -1,0 +1,720 @@
+2024-05-30 21:23:57,676.emitter_tasks.INFO ==================================================
+2024-05-30 21:23:57,677.emitter_tasks.INFO Today is 2024-05-30 at 09:23 PM
+2024-05-30 21:23:57,678.emitter_tasks.INFO Running on: nt Windows 11
+2024-05-30 21:23:57,678.emitter_tasks.INFO Python version:  3.12.1
+2024-05-30 21:23:57,679.emitter_tasks.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker\.venv
+2024-05-30 21:23:57,679.emitter_tasks.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker
+2024-05-30 21:23:57,680.emitter_tasks.INFO ==================================================
+2024-05-30 21:23:57,680.emitter_tasks.INFO  [x] Task file path: .\smoker-temps.csv
+2024-05-30 21:23:57,681.emitter_tasks.INFO  [x] Processing file: .\smoker-temps.csv
+2024-05-30 21:23:57,682.emitter_tasks.INFO  [x] Read message 84.2 from CSV file for queue name 01-smoker
+2024-05-30 21:23:57,696.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*OS\xc0\x00\x00B\xa8ff'
+2024-05-30 21:23:57,697.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:02,699.emitter_tasks.INFO  [x] Read message 84.2 from CSV file for queue name 01-smoker
+2024-05-30 21:24:02,714.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*OU\x00\x00\x00B\xa8ff'
+2024-05-30 21:24:02,717.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:07,718.emitter_tasks.INFO  [x] Read message 87.6 from CSV file for queue name 01-smoker
+2024-05-30 21:24:07,733.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Oa\x80\x00\x00B\xaf33'
+2024-05-30 21:24:07,736.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:12,738.emitter_tasks.INFO  [x] Read message 87.6 from CSV file for queue name 01-smoker
+2024-05-30 21:24:12,745.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Ob\xc0\x00\x00B\xaf33'
+2024-05-30 21:24:12,746.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:17,748.emitter_tasks.INFO  [x] Read message 86.3 from CSV file for queue name 01-smoker
+2024-05-30 21:24:17,769.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Op\x80\x00\x00B\xac\x99\x9a'
+2024-05-30 21:24:17,770.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:22,773.emitter_tasks.INFO  [x] Read message 86.3 from CSV file for queue name 01-smoker
+2024-05-30 21:24:22,790.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Oq\xc0\x00\x00B\xac\x99\x9a'
+2024-05-30 21:24:22,793.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:27,795.emitter_tasks.INFO  [x] Read message 92.0 from CSV file for queue name 01-smoker
+2024-05-30 21:24:27,813.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\x7f\x80\x00\x00B\xb8\x00\x00'
+2024-05-30 21:24:27,815.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:32,817.emitter_tasks.INFO  [x] Read message 92.0 from CSV file for queue name 01-smoker
+2024-05-30 21:24:32,851.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\x80\xc0\x00\x00B\xb8\x00\x00'
+2024-05-30 21:24:32,853.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:37,855.emitter_tasks.INFO  [x] Read message 96.8 from CSV file for queue name 01-smoker
+2024-05-30 21:24:37,871.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\x8e\x80\x00\x00B\xc1\x99\x9a'
+2024-05-30 21:24:37,875.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:42,877.emitter_tasks.INFO  [x] Read message 96.8 from CSV file for queue name 01-smoker
+2024-05-30 21:24:42,898.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\x8f\xc0\x00\x00B\xc1\x99\x9a'
+2024-05-30 21:24:42,901.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:47,902.emitter_tasks.INFO  [x] Read message 100.6 from CSV file for queue name 01-smoker
+2024-05-30 21:24:47,913.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\x9c@\x00\x00B\xc933'
+2024-05-30 21:24:47,916.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:52,917.emitter_tasks.INFO  [x] Read message 100.9 from CSV file for queue name 01-smoker
+2024-05-30 21:24:52,930.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\x9d\x80\x00\x00B\xc9\xcc\xcd'
+2024-05-30 21:24:52,933.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:24:57,934.emitter_tasks.INFO  [x] Read message 100.9 from CSV file for queue name 01-smoker
+2024-05-30 21:24:57,954.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\x9e\xc0\x00\x00B\xc9\xcc\xcd'
+2024-05-30 21:24:57,955.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:02,957.emitter_tasks.INFO  [x] Read message 104.8 from CSV file for queue name 01-smoker
+2024-05-30 21:25:02,990.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xac\x80\x00\x00B\xd1\x99\x9a'
+2024-05-30 21:25:02,991.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:07,993.emitter_tasks.INFO  [x] Read message 104.8 from CSV file for queue name 01-smoker
+2024-05-30 21:25:08,023.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xad\xc0\x00\x00B\xd1\x99\x9a'
+2024-05-30 21:25:08,024.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:13,025.emitter_tasks.INFO  [x] Read message 108.2 from CSV file for queue name 01-smoker
+2024-05-30 21:25:13,049.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xbb\x80\x00\x00B\xd8ff'
+2024-05-30 21:25:13,051.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:18,053.emitter_tasks.INFO  [x] Read message 108.2 from CSV file for queue name 01-smoker
+2024-05-30 21:25:18,068.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xbc\xc0\x00\x00B\xd8ff'
+2024-05-30 21:25:18,071.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:23,072.emitter_tasks.INFO  [x] Read message 111.4 from CSV file for queue name 01-smoker
+2024-05-30 21:25:23,092.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xca\x80\x00\x00B\xde\xcc\xcd'
+2024-05-30 21:25:23,095.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:28,097.emitter_tasks.INFO  [x] Read message 111.4 from CSV file for queue name 01-smoker
+2024-05-30 21:25:28,115.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xcb\xc0\x00\x00B\xde\xcc\xcd'
+2024-05-30 21:25:28,118.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:33,120.emitter_tasks.INFO  [x] Read message 114.2 from CSV file for queue name 01-smoker
+2024-05-30 21:25:33,143.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xd9\x80\x00\x00B\xe4ff'
+2024-05-30 21:25:33,145.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:38,147.emitter_tasks.INFO  [x] Read message 114.2 from CSV file for queue name 01-smoker
+2024-05-30 21:25:38,172.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xda\xc0\x00\x00B\xe4ff'
+2024-05-30 21:25:38,174.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:43,175.emitter_tasks.INFO  [x] Read message 116.9 from CSV file for queue name 01-smoker
+2024-05-30 21:25:43,193.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xe8\x80\x00\x00B\xe9\xcc\xcd'
+2024-05-30 21:25:43,196.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:48,198.emitter_tasks.INFO  [x] Read message 116.9 from CSV file for queue name 01-smoker
+2024-05-30 21:25:48,217.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xe9\xc0\x00\x00B\xe9\xcc\xcd'
+2024-05-30 21:25:48,219.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:53,221.emitter_tasks.INFO  [x] Read message 119.4 from CSV file for queue name 01-smoker
+2024-05-30 21:25:53,252.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xf7\x80\x00\x00B\xee\xcc\xcd'
+2024-05-30 21:25:53,254.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:25:58,255.emitter_tasks.INFO  [x] Read message 119.4 from CSV file for queue name 01-smoker
+2024-05-30 21:25:58,263.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*O\xf8\xc0\x00\x00B\xee\xcc\xcd'
+2024-05-30 21:25:58,265.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:03,266.emitter_tasks.INFO  [x] Read message 120.1 from CSV file for queue name 01-smoker
+2024-05-30 21:26:03,280.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x06\x80\x00\x00B\xf033'
+2024-05-30 21:26:03,284.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:08,286.emitter_tasks.INFO  [x] Read message 120.1 from CSV file for queue name 01-smoker
+2024-05-30 21:26:08,311.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x07\xc0\x00\x00B\xf033'
+2024-05-30 21:26:08,316.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:13,320.emitter_tasks.INFO  [x] Read message 106.2 from CSV file for queue name 01-smoker
+2024-05-30 21:26:13,336.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x15\x80\x00\x00B\xd4ff'
+2024-05-30 21:26:13,340.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:18,342.emitter_tasks.INFO  [x] Read message 106.2 from CSV file for queue name 01-smoker
+2024-05-30 21:26:18,356.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x16\xc0\x00\x00B\xd4ff'
+2024-05-30 21:26:18,358.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:23,360.emitter_tasks.INFO  [x] Read message 103.5 from CSV file for queue name 01-smoker
+2024-05-30 21:26:23,370.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P$\x80\x00\x00B\xcf\x00\x00'
+2024-05-30 21:26:23,375.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:28,377.emitter_tasks.INFO  [x] Read message 103.5 from CSV file for queue name 01-smoker
+2024-05-30 21:26:28,396.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P%\xc0\x00\x00B\xcf\x00\x00'
+2024-05-30 21:26:28,401.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:33,404.emitter_tasks.INFO  [x] Read message 105.3 from CSV file for queue name 01-smoker
+2024-05-30 21:26:33,410.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P3\x80\x00\x00B\xd2\x99\x9a'
+2024-05-30 21:26:33,412.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:38,413.emitter_tasks.INFO  [x] Read message 105.3 from CSV file for queue name 01-smoker
+2024-05-30 21:26:38,420.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P4\xc0\x00\x00B\xd2\x99\x9a'
+2024-05-30 21:26:38,421.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:43,423.emitter_tasks.INFO  [x] Read message 106.9 from CSV file for queue name 01-smoker
+2024-05-30 21:26:43,430.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*PB\x80\x00\x00B\xd5\xcc\xcd'
+2024-05-30 21:26:43,431.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:48,432.emitter_tasks.INFO  [x] Read message 106.9 from CSV file for queue name 01-smoker
+2024-05-30 21:26:48,439.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*PC\xc0\x00\x00B\xd5\xcc\xcd'
+2024-05-30 21:26:48,441.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:53,442.emitter_tasks.INFO  [x] Read message 111.9 from CSV file for queue name 01-smoker
+2024-05-30 21:26:53,463.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*PQ\x80\x00\x00B\xdf\xcc\xcd'
+2024-05-30 21:26:53,466.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:26:58,468.emitter_tasks.INFO  [x] Read message 111.9 from CSV file for queue name 01-smoker
+2024-05-30 21:26:58,475.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*PR\xc0\x00\x00B\xdf\xcc\xcd'
+2024-05-30 21:26:58,477.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:03,478.emitter_tasks.INFO  [x] Read message 114.2 from CSV file for queue name 01-smoker
+2024-05-30 21:27:03,500.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P`\x80\x00\x00B\xe4ff'
+2024-05-30 21:27:03,503.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:08,505.emitter_tasks.INFO  [x] Read message 114.2 from CSV file for queue name 01-smoker
+2024-05-30 21:27:08,518.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Pa\xc0\x00\x00B\xe4ff'
+2024-05-30 21:27:08,520.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:13,521.emitter_tasks.INFO  [x] Read message 115.5 from CSV file for queue name 01-smoker
+2024-05-30 21:27:13,540.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Po\x80\x00\x00B\xe7\x00\x00'
+2024-05-30 21:27:13,544.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:18,545.emitter_tasks.INFO  [x] Read message 115.5 from CSV file for queue name 01-smoker
+2024-05-30 21:27:18,563.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Pp\xc0\x00\x00B\xe7\x00\x00'
+2024-05-30 21:27:18,566.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:23,568.emitter_tasks.INFO  [x] Read message 112.6 from CSV file for queue name 01-smoker
+2024-05-30 21:27:23,604.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P~\x80\x00\x00B\xe133'
+2024-05-30 21:27:23,606.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:28,607.emitter_tasks.INFO  [x] Read message 112.6 from CSV file for queue name 01-smoker
+2024-05-30 21:27:28,624.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x7f\xc0\x00\x00B\xe133'
+2024-05-30 21:27:28,628.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:33,629.emitter_tasks.INFO  [x] Read message 118.8 from CSV file for queue name 01-smoker
+2024-05-30 21:27:33,668.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x8d\x80\x00\x00B\xed\x99\x9a'
+2024-05-30 21:27:33,670.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:38,672.emitter_tasks.INFO  [x] Read message 118.8 from CSV file for queue name 01-smoker
+2024-05-30 21:27:38,684.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x8e\xc0\x00\x00B\xed\x99\x9a'
+2024-05-30 21:27:38,686.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:43,688.emitter_tasks.INFO  [x] Read message 113.2 from CSV file for queue name 01-smoker
+2024-05-30 21:27:43,697.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x9c\x80\x00\x00B\xe2ff'
+2024-05-30 21:27:43,700.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:48,702.emitter_tasks.INFO  [x] Read message 113.2 from CSV file for queue name 01-smoker
+2024-05-30 21:27:48,710.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\x9d\xc0\x00\x00B\xe2ff'
+2024-05-30 21:27:48,713.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:53,715.emitter_tasks.INFO  [x] Read message 126.7 from CSV file for queue name 01-smoker
+2024-05-30 21:27:53,724.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xab\x80\x00\x00B\xfdff'
+2024-05-30 21:27:53,727.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:27:58,729.emitter_tasks.INFO  [x] Read message 126.7 from CSV file for queue name 01-smoker
+2024-05-30 21:27:58,764.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xac\xc0\x00\x00B\xfdff'
+2024-05-30 21:27:58,765.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:03,769.emitter_tasks.INFO  [x] Read message 130.0 from CSV file for queue name 01-smoker
+2024-05-30 21:28:03,794.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xba\x80\x00\x00C\x02\x00\x00'
+2024-05-30 21:28:03,796.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:08,798.emitter_tasks.INFO  [x] Read message 130.0 from CSV file for queue name 01-smoker
+2024-05-30 21:28:08,826.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xbb\xc0\x00\x00C\x02\x00\x00'
+2024-05-30 21:28:08,828.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:13,829.emitter_tasks.INFO  [x] Read message 130.0 from CSV file for queue name 01-smoker
+2024-05-30 21:28:13,838.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xc9\x80\x00\x00C\x02\x00\x00'
+2024-05-30 21:28:13,840.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:18,842.emitter_tasks.INFO  [x] Read message 130.0 from CSV file for queue name 01-smoker
+2024-05-30 21:28:18,851.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xca\xc0\x00\x00C\x02\x00\x00'
+2024-05-30 21:28:18,854.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:23,856.emitter_tasks.INFO  [x] Read message 137.3 from CSV file for queue name 01-smoker
+2024-05-30 21:28:23,866.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xd8\x80\x00\x00C\tL\xcd'
+2024-05-30 21:28:23,869.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:28,870.emitter_tasks.INFO  [x] Read message 137.3 from CSV file for queue name 01-smoker
+2024-05-30 21:28:28,890.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xd9\xc0\x00\x00C\tL\xcd'
+2024-05-30 21:28:28,895.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:33,898.emitter_tasks.INFO  [x] Read message 139.5 from CSV file for queue name 01-smoker
+2024-05-30 21:28:33,918.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xe7\x80\x00\x00C\x0b\x80\x00'
+2024-05-30 21:28:33,923.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:38,925.emitter_tasks.INFO  [x] Read message 139.5 from CSV file for queue name 01-smoker
+2024-05-30 21:28:38,944.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xe8\xc0\x00\x00C\x0b\x80\x00'
+2024-05-30 21:28:38,947.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:43,948.emitter_tasks.INFO  [x] Read message 141.8 from CSV file for queue name 01-smoker
+2024-05-30 21:28:43,971.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xf6\x80\x00\x00C\r\xcc\xcd'
+2024-05-30 21:28:43,975.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:48,978.emitter_tasks.INFO  [x] Read message 141.8 from CSV file for queue name 01-smoker
+2024-05-30 21:28:48,997.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*P\xf7\xc0\x00\x00C\r\xcc\xcd'
+2024-05-30 21:28:49,001.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:54,003.emitter_tasks.INFO  [x] Read message 143.6 from CSV file for queue name 01-smoker
+2024-05-30 21:28:54,014.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\x05\x80\x00\x00C\x0f\x99\x9a'
+2024-05-30 21:28:54,016.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:28:59,018.emitter_tasks.INFO  [x] Read message 143.6 from CSV file for queue name 01-smoker
+2024-05-30 21:28:59,024.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\x06\xc0\x00\x00C\x0f\x99\x9a'
+2024-05-30 21:28:59,026.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:04,028.emitter_tasks.INFO  [x] Read message 145.0 from CSV file for queue name 01-smoker
+2024-05-30 21:29:04,047.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\x14\x80\x00\x00C\x11\x00\x00'
+2024-05-30 21:29:04,050.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:09,051.emitter_tasks.INFO  [x] Read message 145.0 from CSV file for queue name 01-smoker
+2024-05-30 21:29:09,077.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\x15\xc0\x00\x00C\x11\x00\x00'
+2024-05-30 21:29:09,079.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:14,080.emitter_tasks.INFO  [x] Read message 146.2 from CSV file for queue name 01-smoker
+2024-05-30 21:29:14,109.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q#\x80\x00\x00C\x1233'
+2024-05-30 21:29:14,111.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:19,112.emitter_tasks.INFO  [x] Read message 146.2 from CSV file for queue name 01-smoker
+2024-05-30 21:29:19,147.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q$\xc0\x00\x00C\x1233'
+2024-05-30 21:29:19,149.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:24,150.emitter_tasks.INFO  [x] Read message 147.5 from CSV file for queue name 01-smoker
+2024-05-30 21:29:24,167.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q2\x80\x00\x00C\x13\x80\x00'
+2024-05-30 21:29:24,170.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:29,172.emitter_tasks.INFO  [x] Read message 147.5 from CSV file for queue name 01-smoker
+2024-05-30 21:29:29,187.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q3\xc0\x00\x00C\x13\x80\x00'
+2024-05-30 21:29:29,189.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:34,190.emitter_tasks.INFO  [x] Read message 148.7 from CSV file for queue name 01-smoker
+2024-05-30 21:29:34,196.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*QA\x80\x00\x00C\x14\xb33'
+2024-05-30 21:29:34,197.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:39,199.emitter_tasks.INFO  [x] Read message 148.7 from CSV file for queue name 01-smoker
+2024-05-30 21:29:39,208.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*QB\xc0\x00\x00C\x14\xb33'
+2024-05-30 21:29:39,210.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:44,212.emitter_tasks.INFO  [x] Read message 149.9 from CSV file for queue name 01-smoker
+2024-05-30 21:29:44,222.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*QP\x80\x00\x00C\x15\xe6f'
+2024-05-30 21:29:44,225.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:49,227.emitter_tasks.INFO  [x] Read message 149.9 from CSV file for queue name 01-smoker
+2024-05-30 21:29:49,236.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*QQ\xc0\x00\x00C\x15\xe6f'
+2024-05-30 21:29:49,238.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:54,239.emitter_tasks.INFO  [x] Read message 151.1 from CSV file for queue name 01-smoker
+2024-05-30 21:29:54,247.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q^@\x00\x00C\x17\x19\x9a'
+2024-05-30 21:29:54,256.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:29:59,257.emitter_tasks.INFO  [x] Read message 151.2 from CSV file for queue name 01-smoker
+2024-05-30 21:29:59,266.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q_\x80\x00\x00C\x1733'
+2024-05-30 21:29:59,268.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:04,270.emitter_tasks.INFO  [x] Read message 151.2 from CSV file for queue name 01-smoker
+2024-05-30 21:30:04,278.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q`\xc0\x00\x00C\x1733'
+2024-05-30 21:30:04,280.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:09,282.emitter_tasks.INFO  [x] Read message 152.4 from CSV file for queue name 01-smoker
+2024-05-30 21:30:09,310.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Qn\x80\x00\x00C\x18ff'
+2024-05-30 21:30:09,312.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:14,314.emitter_tasks.INFO  [x] Read message 152.4 from CSV file for queue name 01-smoker
+2024-05-30 21:30:14,324.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Qo\xc0\x00\x00C\x18ff'
+2024-05-30 21:30:14,327.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:19,328.emitter_tasks.INFO  [x] Read message 153.4 from CSV file for queue name 01-smoker
+2024-05-30 21:30:19,346.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q}\x80\x00\x00C\x19ff'
+2024-05-30 21:30:19,349.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:24,351.emitter_tasks.INFO  [x] Read message 153.4 from CSV file for queue name 01-smoker
+2024-05-30 21:30:24,360.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q~\xc0\x00\x00C\x19ff'
+2024-05-30 21:30:24,363.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:29,364.emitter_tasks.INFO  [x] Read message 154.5 from CSV file for queue name 01-smoker
+2024-05-30 21:30:29,383.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\x8c\x80\x00\x00C\x1a\x80\x00'
+2024-05-30 21:30:29,387.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:34,389.emitter_tasks.INFO  [x] Read message 154.5 from CSV file for queue name 01-smoker
+2024-05-30 21:30:34,421.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\x8d\xc0\x00\x00C\x1a\x80\x00'
+2024-05-30 21:30:34,423.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:39,425.emitter_tasks.INFO  [x] Read message 155.6 from CSV file for queue name 01-smoker
+2024-05-30 21:30:39,464.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\x9b\x80\x00\x00C\x1b\x99\x9a'
+2024-05-30 21:30:39,467.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:44,468.emitter_tasks.INFO  [x] Read message 155.6 from CSV file for queue name 01-smoker
+2024-05-30 21:30:44,486.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\x9c\xc0\x00\x00C\x1b\x99\x9a'
+2024-05-30 21:30:44,489.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:49,491.emitter_tasks.INFO  [x] Read message 156.5 from CSV file for queue name 01-smoker
+2024-05-30 21:30:49,511.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xaa\x80\x00\x00C\x1c\x80\x00'
+2024-05-30 21:30:49,515.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:54,517.emitter_tasks.INFO  [x] Read message 156.5 from CSV file for queue name 01-smoker
+2024-05-30 21:30:54,545.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xab\xc0\x00\x00C\x1c\x80\x00'
+2024-05-30 21:30:54,547.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:30:59,549.emitter_tasks.INFO  [x] Read message 157.8 from CSV file for queue name 01-smoker
+2024-05-30 21:30:59,556.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xb9\x80\x00\x00C\x1d\xcc\xcd'
+2024-05-30 21:30:59,557.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:04,558.emitter_tasks.INFO  [x] Read message 157.8 from CSV file for queue name 01-smoker
+2024-05-30 21:31:04,565.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xba\xc0\x00\x00C\x1d\xcc\xcd'
+2024-05-30 21:31:04,567.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:09,568.emitter_tasks.INFO  [x] Read message 158.8 from CSV file for queue name 01-smoker
+2024-05-30 21:31:09,588.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xc8\x80\x00\x00C\x1e\xcc\xcd'
+2024-05-30 21:31:09,592.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:14,594.emitter_tasks.INFO  [x] Read message 158.8 from CSV file for queue name 01-smoker
+2024-05-30 21:31:14,604.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xc9\xc0\x00\x00C\x1e\xcc\xcd'
+2024-05-30 21:31:14,606.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:19,608.emitter_tasks.INFO  [x] Read message 159.9 from CSV file for queue name 01-smoker
+2024-05-30 21:31:19,635.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xd7\x80\x00\x00C\x1f\xe6f'
+2024-05-30 21:31:19,637.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:24,638.emitter_tasks.INFO  [x] Read message 159.9 from CSV file for queue name 01-smoker
+2024-05-30 21:31:24,659.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xd8\xc0\x00\x00C\x1f\xe6f'
+2024-05-30 21:31:24,661.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:29,663.emitter_tasks.INFO  [x] Read message 160.7 from CSV file for queue name 01-smoker
+2024-05-30 21:31:29,693.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xe6\x80\x00\x00C \xb33'
+2024-05-30 21:31:29,695.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:34,696.emitter_tasks.INFO  [x] Read message 160.7 from CSV file for queue name 01-smoker
+2024-05-30 21:31:34,705.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xe7\xc0\x00\x00C \xb33'
+2024-05-30 21:31:34,707.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:39,710.emitter_tasks.INFO  [x] Read message 161.9 from CSV file for queue name 01-smoker
+2024-05-30 21:31:39,725.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xf5\x80\x00\x00C!\xe6f'
+2024-05-30 21:31:39,729.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:44,731.emitter_tasks.INFO  [x] Read message 161.9 from CSV file for queue name 01-smoker
+2024-05-30 21:31:44,745.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Q\xf6\xc0\x00\x00C!\xe6f'
+2024-05-30 21:31:44,747.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:49,749.emitter_tasks.INFO  [x] Read message 163.1 from CSV file for queue name 01-smoker
+2024-05-30 21:31:49,758.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\x04\x80\x00\x00C#\x19\x9a'
+2024-05-30 21:31:49,760.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:54,761.emitter_tasks.INFO  [x] Read message 163.1 from CSV file for queue name 01-smoker
+2024-05-30 21:31:54,779.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\x05\xc0\x00\x00C#\x19\x9a'
+2024-05-30 21:31:54,781.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:31:59,784.emitter_tasks.INFO  [x] Read message 164.3 from CSV file for queue name 01-smoker
+2024-05-30 21:31:59,819.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\x13\x80\x00\x00C$L\xcd'
+2024-05-30 21:31:59,821.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:04,822.emitter_tasks.INFO  [x] Read message 164.3 from CSV file for queue name 01-smoker
+2024-05-30 21:32:04,857.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\x14\xc0\x00\x00C$L\xcd'
+2024-05-30 21:32:04,859.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:09,861.emitter_tasks.INFO  [x] Read message 165.6 from CSV file for queue name 01-smoker
+2024-05-30 21:32:09,885.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R"\x80\x00\x00C%\x99\x9a'
+2024-05-30 21:32:09,896.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:14,897.emitter_tasks.INFO  [x] Read message 165.6 from CSV file for queue name 01-smoker
+2024-05-30 21:32:14,907.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R#\xc0\x00\x00C%\x99\x9a'
+2024-05-30 21:32:14,910.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:19,912.emitter_tasks.INFO  [x] Read message 166.7 from CSV file for queue name 01-smoker
+2024-05-30 21:32:19,931.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R1\x80\x00\x00C&\xb33'
+2024-05-30 21:32:19,934.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:24,935.emitter_tasks.INFO  [x] Read message 166.7 from CSV file for queue name 01-smoker
+2024-05-30 21:32:24,954.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R2\xc0\x00\x00C&\xb33'
+2024-05-30 21:32:24,958.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:29,959.emitter_tasks.INFO  [x] Read message 167.8 from CSV file for queue name 01-smoker
+2024-05-30 21:32:29,970.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b"A\xd8*R@\x80\x00\x00C'\xcc\xcd"
+2024-05-30 21:32:29,972.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:34,973.emitter_tasks.INFO  [x] Read message 167.8 from CSV file for queue name 01-smoker
+2024-05-30 21:32:34,989.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b"A\xd8*RA\xc0\x00\x00C'\xcc\xcd"
+2024-05-30 21:32:34,991.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:39,993.emitter_tasks.INFO  [x] Read message 168.8 from CSV file for queue name 01-smoker
+2024-05-30 21:32:40,012.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*RO\x80\x00\x00C(\xcc\xcd'
+2024-05-30 21:32:40,015.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:45,016.emitter_tasks.INFO  [x] Read message 168.8 from CSV file for queue name 01-smoker
+2024-05-30 21:32:45,025.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*RP\xc0\x00\x00C(\xcc\xcd'
+2024-05-30 21:32:45,027.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:50,029.emitter_tasks.INFO  [x] Read message 170.2 from CSV file for queue name 01-smoker
+2024-05-30 21:32:50,049.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R^\x80\x00\x00C*33'
+2024-05-30 21:32:50,051.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:32:55,052.emitter_tasks.INFO  [x] Read message 170.2 from CSV file for queue name 01-smoker
+2024-05-30 21:32:55,069.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R_\xc0\x00\x00C*33'
+2024-05-30 21:32:55,072.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:00,073.emitter_tasks.INFO  [x] Read message 171.7 from CSV file for queue name 01-smoker
+2024-05-30 21:33:00,107.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Rm\x80\x00\x00C+\xb33'
+2024-05-30 21:33:00,108.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:05,110.emitter_tasks.INFO  [x] Read message 171.7 from CSV file for queue name 01-smoker
+2024-05-30 21:33:05,139.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Rn\xc0\x00\x00C+\xb33'
+2024-05-30 21:33:05,143.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:10,146.emitter_tasks.INFO  [x] Read message 173.3 from CSV file for queue name 01-smoker
+2024-05-30 21:33:10,159.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R|\x80\x00\x00C-L\xcd'
+2024-05-30 21:33:10,161.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:15,162.emitter_tasks.INFO  [x] Read message 173.3 from CSV file for queue name 01-smoker
+2024-05-30 21:33:15,181.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R}\xc0\x00\x00C-L\xcd'
+2024-05-30 21:33:15,185.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:20,188.emitter_tasks.INFO  [x] Read message 174.6 from CSV file for queue name 01-smoker
+2024-05-30 21:33:20,208.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\x8b\x80\x00\x00C.\x99\x9a'
+2024-05-30 21:33:20,211.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:25,212.emitter_tasks.INFO  [x] Read message 174.6 from CSV file for queue name 01-smoker
+2024-05-30 21:33:25,237.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\x8c\xc0\x00\x00C.\x99\x9a'
+2024-05-30 21:33:25,239.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:30,240.emitter_tasks.INFO  [x] Read message 175.5 from CSV file for queue name 01-smoker
+2024-05-30 21:33:30,249.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\x9a\x80\x00\x00C/\x80\x00'
+2024-05-30 21:33:30,250.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:35,251.emitter_tasks.INFO  [x] Read message 175.5 from CSV file for queue name 01-smoker
+2024-05-30 21:33:35,262.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\x9b\xc0\x00\x00C/\x80\x00'
+2024-05-30 21:33:35,265.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:40,266.emitter_tasks.INFO  [x] Read message 176.8 from CSV file for queue name 01-smoker
+2024-05-30 21:33:40,280.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xa9\x80\x00\x00C0\xcc\xcd'
+2024-05-30 21:33:40,283.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:45,284.emitter_tasks.INFO  [x] Read message 176.8 from CSV file for queue name 01-smoker
+2024-05-30 21:33:45,299.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xaa\xc0\x00\x00C0\xcc\xcd'
+2024-05-30 21:33:45,302.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:50,304.emitter_tasks.INFO  [x] Read message 177.8 from CSV file for queue name 01-smoker
+2024-05-30 21:33:50,322.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xb8\x80\x00\x00C1\xcc\xcd'
+2024-05-30 21:33:50,324.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:33:55,325.emitter_tasks.INFO  [x] Read message 177.8 from CSV file for queue name 01-smoker
+2024-05-30 21:33:55,344.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xb9\xc0\x00\x00C1\xcc\xcd'
+2024-05-30 21:33:55,346.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:00,348.emitter_tasks.INFO  [x] Read message 178.9 from CSV file for queue name 01-smoker
+2024-05-30 21:34:00,380.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xc7\x80\x00\x00C2\xe6f'
+2024-05-30 21:34:00,382.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:05,384.emitter_tasks.INFO  [x] Read message 178.9 from CSV file for queue name 01-smoker
+2024-05-30 21:34:05,402.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xc8\xc0\x00\x00C2\xe6f'
+2024-05-30 21:34:05,405.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:10,407.emitter_tasks.INFO  [x] Read message 180.3 from CSV file for queue name 01-smoker
+2024-05-30 21:34:10,426.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xd6\x80\x00\x00C4L\xcd'
+2024-05-30 21:34:10,429.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:15,431.emitter_tasks.INFO  [x] Read message 180.3 from CSV file for queue name 01-smoker
+2024-05-30 21:34:15,449.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xd7\xc0\x00\x00C4L\xcd'
+2024-05-30 21:34:15,453.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:20,455.emitter_tasks.INFO  [x] Read message 181.4 from CSV file for queue name 01-smoker
+2024-05-30 21:34:20,472.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xe5\x80\x00\x00C5ff'
+2024-05-30 21:34:20,473.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:25,475.emitter_tasks.INFO  [x] Read message 181.4 from CSV file for queue name 01-smoker
+2024-05-30 21:34:25,493.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xe6\xc0\x00\x00C5ff'
+2024-05-30 21:34:25,496.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:30,499.emitter_tasks.INFO  [x] Read message 182.6 from CSV file for queue name 01-smoker
+2024-05-30 21:34:30,517.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xf4\x80\x00\x00C6\x99\x9a'
+2024-05-30 21:34:30,520.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:35,522.emitter_tasks.INFO  [x] Read message 182.6 from CSV file for queue name 01-smoker
+2024-05-30 21:34:35,539.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*R\xf5\xc0\x00\x00C6\x99\x9a'
+2024-05-30 21:34:35,541.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:40,543.emitter_tasks.INFO  [x] Read message 183.9 from CSV file for queue name 01-smoker
+2024-05-30 21:34:40,561.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\x03\x80\x00\x00C7\xe6f'
+2024-05-30 21:34:40,562.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:45,564.emitter_tasks.INFO  [x] Read message 183.9 from CSV file for queue name 01-smoker
+2024-05-30 21:34:45,580.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\x04\xc0\x00\x00C7\xe6f'
+2024-05-30 21:34:45,583.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:50,584.emitter_tasks.INFO  [x] Read message 184.8 from CSV file for queue name 01-smoker
+2024-05-30 21:34:50,604.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\x12\x80\x00\x00C8\xcc\xcd'
+2024-05-30 21:34:50,607.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:34:55,609.emitter_tasks.INFO  [x] Read message 184.8 from CSV file for queue name 01-smoker
+2024-05-30 21:34:55,626.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\x13\xc0\x00\x00C8\xcc\xcd'
+2024-05-30 21:34:55,628.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:00,630.emitter_tasks.INFO  [x] Read message 186.0 from CSV file for queue name 01-smoker
+2024-05-30 21:35:00,660.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S!\x80\x00\x00C:\x00\x00'
+2024-05-30 21:35:00,663.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:05,665.emitter_tasks.INFO  [x] Read message 186.0 from CSV file for queue name 01-smoker
+2024-05-30 21:35:05,683.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S"\xc0\x00\x00C:\x00\x00'
+2024-05-30 21:35:05,686.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:10,687.emitter_tasks.INFO  [x] Read message 187.1 from CSV file for queue name 01-smoker
+2024-05-30 21:35:10,704.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S0\x80\x00\x00C;\x19\x9a'
+2024-05-30 21:35:10,708.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:15,709.emitter_tasks.INFO  [x] Read message 187.1 from CSV file for queue name 01-smoker
+2024-05-30 21:35:15,728.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S1\xc0\x00\x00C;\x19\x9a'
+2024-05-30 21:35:15,731.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:20,733.emitter_tasks.INFO  [x] Read message 211.9 from CSV file for queue name 01-smoker
+2024-05-30 21:35:20,747.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S?\x80\x00\x00CS\xe6f'
+2024-05-30 21:35:20,750.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:25,751.emitter_tasks.INFO  [x] Read message 211.9 from CSV file for queue name 01-smoker
+2024-05-30 21:35:25,762.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S@\xc0\x00\x00CS\xe6f'
+2024-05-30 21:35:25,764.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:30,764.emitter_tasks.INFO  [x] Read message 215.3 from CSV file for queue name 01-smoker
+2024-05-30 21:35:30,782.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*SN\x80\x00\x00CWL\xcd'
+2024-05-30 21:35:30,784.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:35,786.emitter_tasks.INFO  [x] Read message 215.3 from CSV file for queue name 01-smoker
+2024-05-30 21:35:35,796.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*SO\xc0\x00\x00CWL\xcd'
+2024-05-30 21:35:35,798.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:40,800.emitter_tasks.INFO  [x] Read message 217.0 from CSV file for queue name 01-smoker
+2024-05-30 21:35:40,819.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S]\x80\x00\x00CY\x00\x00'
+2024-05-30 21:35:40,821.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:45,825.emitter_tasks.INFO  [x] Read message 217.0 from CSV file for queue name 01-smoker
+2024-05-30 21:35:45,840.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S^\xc0\x00\x00CY\x00\x00'
+2024-05-30 21:35:45,844.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:50,847.emitter_tasks.INFO  [x] Read message 218.6 from CSV file for queue name 01-smoker
+2024-05-30 21:35:50,864.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Sl\x80\x00\x00CZ\x99\x9a'
+2024-05-30 21:35:50,869.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:35:55,871.emitter_tasks.INFO  [x] Read message 218.6 from CSV file for queue name 01-smoker
+2024-05-30 21:35:55,886.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Sm\xc0\x00\x00CZ\x99\x9a'
+2024-05-30 21:35:55,889.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:00,890.emitter_tasks.INFO  [x] Read message 218.5 from CSV file for queue name 01-smoker
+2024-05-30 21:36:00,917.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S{\x80\x00\x00CZ\x80\x00'
+2024-05-30 21:36:00,919.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:05,920.emitter_tasks.INFO  [x] Read message 218.5 from CSV file for queue name 01-smoker
+2024-05-30 21:36:05,932.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S|\xc0\x00\x00CZ\x80\x00'
+2024-05-30 21:36:05,936.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:10,937.emitter_tasks.INFO  [x] Read message 219.4 from CSV file for queue name 01-smoker
+2024-05-30 21:36:10,948.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\x8a\x80\x00\x00C[ff'
+2024-05-30 21:36:10,950.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:15,951.emitter_tasks.INFO  [x] Read message 219.4 from CSV file for queue name 01-smoker
+2024-05-30 21:36:15,958.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\x8b\xc0\x00\x00C[ff'
+2024-05-30 21:36:15,961.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:20,963.emitter_tasks.INFO  [x] Read message 220.5 from CSV file for queue name 01-smoker
+2024-05-30 21:36:20,982.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\x99\x80\x00\x00C\\\x80\x00'
+2024-05-30 21:36:20,985.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:25,987.emitter_tasks.INFO  [x] Read message 220.5 from CSV file for queue name 01-smoker
+2024-05-30 21:36:25,998.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\x9a\xc0\x00\x00C\\\x80\x00'
+2024-05-30 21:36:25,999.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:31,000.emitter_tasks.INFO  [x] Read message 220.7 from CSV file for queue name 01-smoker
+2024-05-30 21:36:31,009.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xa8\x80\x00\x00C\\\xb33'
+2024-05-30 21:36:31,012.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:36,014.emitter_tasks.INFO  [x] Read message 220.7 from CSV file for queue name 01-smoker
+2024-05-30 21:36:36,045.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xa9\xc0\x00\x00C\\\xb33'
+2024-05-30 21:36:36,047.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:41,049.emitter_tasks.INFO  [x] Read message 222.5 from CSV file for queue name 01-smoker
+2024-05-30 21:36:41,065.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xb7\x80\x00\x00C^\x80\x00'
+2024-05-30 21:36:41,068.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:46,070.emitter_tasks.INFO  [x] Read message 222.5 from CSV file for queue name 01-smoker
+2024-05-30 21:36:46,077.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xb8\xc0\x00\x00C^\x80\x00'
+2024-05-30 21:36:46,080.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:51,082.emitter_tasks.INFO  [x] Read message 223.0 from CSV file for queue name 01-smoker
+2024-05-30 21:36:51,101.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xc6\x80\x00\x00C_\x00\x00'
+2024-05-30 21:36:51,104.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:36:56,107.emitter_tasks.INFO  [x] Read message 223.0 from CSV file for queue name 01-smoker
+2024-05-30 21:36:56,121.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xc7\xc0\x00\x00C_\x00\x00'
+2024-05-30 21:36:56,123.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:01,125.emitter_tasks.INFO  [x] Read message 224.7 from CSV file for queue name 01-smoker
+2024-05-30 21:37:01,132.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xd5\x80\x00\x00C`\xb33'
+2024-05-30 21:37:01,133.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:06,135.emitter_tasks.INFO  [x] Read message 224.7 from CSV file for queue name 01-smoker
+2024-05-30 21:37:06,147.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xd6\xc0\x00\x00C`\xb33'
+2024-05-30 21:37:06,149.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:11,150.emitter_tasks.INFO  [x] Read message 224.2 from CSV file for queue name 01-smoker
+2024-05-30 21:37:11,170.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xe4\x80\x00\x00C`33'
+2024-05-30 21:37:11,174.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:16,177.emitter_tasks.INFO  [x] Read message 224.2 from CSV file for queue name 01-smoker
+2024-05-30 21:37:16,194.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xe5\xc0\x00\x00C`33'
+2024-05-30 21:37:16,197.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:21,199.emitter_tasks.INFO  [x] Read message 223.6 from CSV file for queue name 01-smoker
+2024-05-30 21:37:21,229.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xf3\x80\x00\x00C_\x99\x9a'
+2024-05-30 21:37:21,231.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:26,234.emitter_tasks.INFO  [x] Read message 223.6 from CSV file for queue name 01-smoker
+2024-05-30 21:37:26,245.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*S\xf4\xc0\x00\x00C_\x99\x9a'
+2024-05-30 21:37:26,246.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:31,248.emitter_tasks.INFO  [x] Read message 224.6 from CSV file for queue name 01-smoker
+2024-05-30 21:37:31,255.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\x02\x80\x00\x00C`\x99\x9a'
+2024-05-30 21:37:31,257.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:36,258.emitter_tasks.INFO  [x] Read message 224.6 from CSV file for queue name 01-smoker
+2024-05-30 21:37:36,270.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\x03\xc0\x00\x00C`\x99\x9a'
+2024-05-30 21:37:36,275.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:41,278.emitter_tasks.INFO  [x] Read message 224.3 from CSV file for queue name 01-smoker
+2024-05-30 21:37:41,298.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\x11\x80\x00\x00C`L\xcd'
+2024-05-30 21:37:41,302.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:46,305.emitter_tasks.INFO  [x] Read message 224.3 from CSV file for queue name 01-smoker
+2024-05-30 21:37:46,343.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\x12\xc0\x00\x00C`L\xcd'
+2024-05-30 21:37:46,346.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:51,347.emitter_tasks.INFO  [x] Read message 226.6 from CSV file for queue name 01-smoker
+2024-05-30 21:37:51,358.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T \x80\x00\x00Cb\x99\x9a'
+2024-05-30 21:37:51,360.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:37:56,362.emitter_tasks.INFO  [x] Read message 226.6 from CSV file for queue name 01-smoker
+2024-05-30 21:37:56,378.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T!\xc0\x00\x00Cb\x99\x9a'
+2024-05-30 21:37:56,381.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:01,382.emitter_tasks.INFO  [x] Read message 229.0 from CSV file for queue name 01-smoker
+2024-05-30 21:38:01,397.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T/\x80\x00\x00Ce\x00\x00'
+2024-05-30 21:38:01,399.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:06,401.emitter_tasks.INFO  [x] Read message 229.0 from CSV file for queue name 01-smoker
+2024-05-30 21:38:06,417.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T0\xc0\x00\x00Ce\x00\x00'
+2024-05-30 21:38:06,419.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:11,422.emitter_tasks.INFO  [x] Read message 232.8 from CSV file for queue name 01-smoker
+2024-05-30 21:38:11,430.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T>\x80\x00\x00Ch\xcc\xcd'
+2024-05-30 21:38:11,432.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:16,433.emitter_tasks.INFO  [x] Read message 232.8 from CSV file for queue name 01-smoker
+2024-05-30 21:38:16,455.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T?\xc0\x00\x00Ch\xcc\xcd'
+2024-05-30 21:38:16,457.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:21,459.emitter_tasks.INFO  [x] Read message 237.9 from CSV file for queue name 01-smoker
+2024-05-30 21:38:21,476.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*TM\x80\x00\x00Cm\xe6f'
+2024-05-30 21:38:21,479.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:26,480.emitter_tasks.INFO  [x] Read message 237.9 from CSV file for queue name 01-smoker
+2024-05-30 21:38:26,508.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*TN\xc0\x00\x00Cm\xe6f'
+2024-05-30 21:38:26,512.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:31,513.emitter_tasks.INFO  [x] Read message 200.2 from CSV file for queue name 01-smoker
+2024-05-30 21:38:31,524.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\\\x80\x00\x00CH33'
+2024-05-30 21:38:31,526.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:36,528.emitter_tasks.INFO  [x] Read message 200.2 from CSV file for queue name 01-smoker
+2024-05-30 21:38:36,541.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T]\xc0\x00\x00CH33'
+2024-05-30 21:38:36,542.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:41,544.emitter_tasks.INFO  [x] Read message 38.7 from CSV file for queue name 02-smoker-A
+2024-05-30 21:38:41,574.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*Tb\xc0\x00\x00B\x1a\xcc\xcd'
+2024-05-30 21:38:41,575.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:46,577.emitter_tasks.INFO  [x] Read message 38.7 from CSV file for queue name 02-smoker-A
+2024-05-30 21:38:46,597.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*Td\x00\x00\x00B\x1a\xcc\xcd'
+2024-05-30 21:38:46,599.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:46,599.emitter_tasks.INFO  [x] Read message 37.0 from CSV file for queue name 03-smoker-B
+2024-05-30 21:38:46,609.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*Td\x00\x00\x00B\x14\x00\x00'
+2024-05-30 21:38:46,611.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:51,612.emitter_tasks.INFO  [x] Read message 37.0 from CSV file for queue name 03-smoker-B
+2024-05-30 21:38:51,642.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*Te@\x00\x00B\x14\x00\x00'
+2024-05-30 21:38:51,644.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:38:56,645.emitter_tasks.INFO  [x] Read message 205.9 from CSV file for queue name 01-smoker
+2024-05-30 21:38:56,653.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Tk\x80\x00\x00CM\xe6f'
+2024-05-30 21:38:56,654.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:01,656.emitter_tasks.INFO  [x] Read message 205.9 from CSV file for queue name 01-smoker
+2024-05-30 21:39:01,694.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Tl\xc0\x00\x00CM\xe6f'
+2024-05-30 21:39:01,696.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:06,697.emitter_tasks.INFO  [x] Read message 37.1 from CSV file for queue name 02-smoker-A
+2024-05-30 21:39:06,731.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*Tq\xc0\x00\x00B\x14ff'
+2024-05-30 21:39:06,734.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:11,736.emitter_tasks.INFO  [x] Read message 37.1 from CSV file for queue name 02-smoker-A
+2024-05-30 21:39:11,770.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*Ts\x00\x00\x00B\x14ff'
+2024-05-30 21:39:11,772.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:11,773.emitter_tasks.INFO  [x] Read message 35.3 from CSV file for queue name 03-smoker-B
+2024-05-30 21:39:11,779.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*Ts\x00\x00\x00B\r33'
+2024-05-30 21:39:11,786.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:16,788.emitter_tasks.INFO  [x] Read message 35.3 from CSV file for queue name 03-smoker-B
+2024-05-30 21:39:16,815.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*Tt@\x00\x00B\r33'
+2024-05-30 21:39:16,817.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:21,819.emitter_tasks.INFO  [x] Read message 230.0 from CSV file for queue name 01-smoker
+2024-05-30 21:39:21,829.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*Tz\x80\x00\x00Cf\x00\x00'
+2024-05-30 21:39:21,831.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:26,833.emitter_tasks.INFO  [x] Read message 230.0 from CSV file for queue name 01-smoker
+2024-05-30 21:39:26,847.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T{\xc0\x00\x00Cf\x00\x00'
+2024-05-30 21:39:26,849.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:31,851.emitter_tasks.INFO  [x] Read message 36.9 from CSV file for queue name 02-smoker-A
+2024-05-30 21:39:31,891.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\x80\xc0\x00\x00B\x13\x99\x9a'
+2024-05-30 21:39:31,895.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:36,897.emitter_tasks.INFO  [x] Read message 36.9 from CSV file for queue name 02-smoker-A
+2024-05-30 21:39:36,928.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\x82\x00\x00\x00B\x13\x99\x9a'
+2024-05-30 21:39:36,931.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:36,932.emitter_tasks.INFO  [x] Read message 35.2 from CSV file for queue name 03-smoker-B
+2024-05-30 21:39:36,939.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\x82\x00\x00\x00B\x0c\xcc\xcd'
+2024-05-30 21:39:36,941.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:41,944.emitter_tasks.INFO  [x] Read message 35.2 from CSV file for queue name 03-smoker-B
+2024-05-30 21:39:41,951.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\x83@\x00\x00B\x0c\xcc\xcd'
+2024-05-30 21:39:41,953.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:46,955.emitter_tasks.INFO  [x] Read message 239.6 from CSV file for queue name 01-smoker
+2024-05-30 21:39:46,974.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\x89\x80\x00\x00Co\x99\x9a'
+2024-05-30 21:39:46,978.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:51,980.emitter_tasks.INFO  [x] Read message 239.6 from CSV file for queue name 01-smoker
+2024-05-30 21:39:52,014.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\x8a\xc0\x00\x00Co\x99\x9a'
+2024-05-30 21:39:52,017.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:39:57,018.emitter_tasks.INFO  [x] Read message 36.9 from CSV file for queue name 02-smoker-A
+2024-05-30 21:39:57,031.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\x8f\xc0\x00\x00B\x13\x99\x9a'
+2024-05-30 21:39:57,033.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:02,036.emitter_tasks.INFO  [x] Read message 36.9 from CSV file for queue name 02-smoker-A
+2024-05-30 21:40:02,049.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\x91\x00\x00\x00B\x13\x99\x9a'
+2024-05-30 21:40:02,056.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:02,058.emitter_tasks.INFO  [x] Read message 35.3 from CSV file for queue name 03-smoker-B
+2024-05-30 21:40:02,067.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\x91\x00\x00\x00B\r33'
+2024-05-30 21:40:02,069.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:07,070.emitter_tasks.INFO  [x] Read message 35.3 from CSV file for queue name 03-smoker-B
+2024-05-30 21:40:07,080.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\x92@\x00\x00B\r33'
+2024-05-30 21:40:07,081.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:12,083.emitter_tasks.INFO  [x] Read message 242.4 from CSV file for queue name 01-smoker
+2024-05-30 21:40:12,092.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\x98\x80\x00\x00Crff'
+2024-05-30 21:40:12,094.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:17,096.emitter_tasks.INFO  [x] Read message 242.4 from CSV file for queue name 01-smoker
+2024-05-30 21:40:17,106.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\x99\xc0\x00\x00Crff'
+2024-05-30 21:40:17,109.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:22,110.emitter_tasks.INFO  [x] Read message 37.2 from CSV file for queue name 02-smoker-A
+2024-05-30 21:40:22,123.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\x9e\xc0\x00\x00B\x14\xcc\xcd'
+2024-05-30 21:40:22,126.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:27,127.emitter_tasks.INFO  [x] Read message 37.2 from CSV file for queue name 02-smoker-A
+2024-05-30 21:40:27,147.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xa0\x00\x00\x00B\x14\xcc\xcd'
+2024-05-30 21:40:27,150.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:27,151.emitter_tasks.INFO  [x] Read message 35.2 from CSV file for queue name 03-smoker-B
+2024-05-30 21:40:27,163.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xa0\x00\x00\x00B\x0c\xcc\xcd'
+2024-05-30 21:40:27,166.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:32,167.emitter_tasks.INFO  [x] Read message 35.2 from CSV file for queue name 03-smoker-B
+2024-05-30 21:40:32,185.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xa1@\x00\x00B\x0c\xcc\xcd'
+2024-05-30 21:40:32,189.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:37,192.emitter_tasks.INFO  [x] Read message 243.1 from CSV file for queue name 01-smoker
+2024-05-30 21:40:37,210.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xa7\x80\x00\x00Cs\x19\x9a'
+2024-05-30 21:40:37,214.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:42,216.emitter_tasks.INFO  [x] Read message 243.1 from CSV file for queue name 01-smoker
+2024-05-30 21:40:42,227.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xa8\xc0\x00\x00Cs\x19\x9a'
+2024-05-30 21:40:42,230.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:47,232.emitter_tasks.INFO  [x] Read message 37.5 from CSV file for queue name 02-smoker-A
+2024-05-30 21:40:47,251.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xad\xc0\x00\x00B\x16\x00\x00'
+2024-05-30 21:40:47,256.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:52,258.emitter_tasks.INFO  [x] Read message 37.5 from CSV file for queue name 02-smoker-A
+2024-05-30 21:40:52,265.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xaf\x00\x00\x00B\x16\x00\x00'
+2024-05-30 21:40:52,266.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:52,267.emitter_tasks.INFO  [x] Read message 35.2 from CSV file for queue name 03-smoker-B
+2024-05-30 21:40:52,275.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xaf\x00\x00\x00B\x0c\xcc\xcd'
+2024-05-30 21:40:52,277.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:40:57,279.emitter_tasks.INFO  [x] Read message 35.2 from CSV file for queue name 03-smoker-B
+2024-05-30 21:40:57,290.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xb0@\x00\x00B\x0c\xcc\xcd'
+2024-05-30 21:40:57,294.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:02,296.emitter_tasks.INFO  [x] Read message 242.6 from CSV file for queue name 01-smoker
+2024-05-30 21:41:02,327.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xb6\x80\x00\x00Cr\x99\x9a'
+2024-05-30 21:41:02,331.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:07,333.emitter_tasks.INFO  [x] Read message 242.6 from CSV file for queue name 01-smoker
+2024-05-30 21:41:07,348.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xb7\xc0\x00\x00Cr\x99\x9a'
+2024-05-30 21:41:07,352.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:12,353.emitter_tasks.INFO  [x] Read message 37.9 from CSV file for queue name 02-smoker-A
+2024-05-30 21:41:12,368.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xbc\xc0\x00\x00B\x17\x99\x9a'
+2024-05-30 21:41:12,374.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:17,376.emitter_tasks.INFO  [x] Read message 37.9 from CSV file for queue name 02-smoker-A
+2024-05-30 21:41:17,391.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xbe\x00\x00\x00B\x17\x99\x9a'
+2024-05-30 21:41:17,395.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:17,396.emitter_tasks.INFO  [x] Read message 35.6 from CSV file for queue name 03-smoker-B
+2024-05-30 21:41:17,407.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xbe\x00\x00\x00B\x0eff'
+2024-05-30 21:41:17,409.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:22,411.emitter_tasks.INFO  [x] Read message 35.6 from CSV file for queue name 03-smoker-B
+2024-05-30 21:41:22,430.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xbf@\x00\x00B\x0eff'
+2024-05-30 21:41:22,433.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:27,436.emitter_tasks.INFO  [x] Read message 241.7 from CSV file for queue name 01-smoker
+2024-05-30 21:41:27,456.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xc5\x80\x00\x00Cq\xb33'
+2024-05-30 21:41:27,460.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:32,463.emitter_tasks.INFO  [x] Read message 241.7 from CSV file for queue name 01-smoker
+2024-05-30 21:41:32,498.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xc6\xc0\x00\x00Cq\xb33'
+2024-05-30 21:41:32,501.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:37,502.emitter_tasks.INFO  [x] Read message 38.4 from CSV file for queue name 02-smoker-A
+2024-05-30 21:41:37,520.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xcb\xc0\x00\x00B\x19\x99\x9a'
+2024-05-30 21:41:37,525.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:42,527.emitter_tasks.INFO  [x] Read message 38.4 from CSV file for queue name 02-smoker-A
+2024-05-30 21:41:42,538.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xcd\x00\x00\x00B\x19\x99\x9a'
+2024-05-30 21:41:42,541.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:42,542.emitter_tasks.INFO  [x] Read message 35.7 from CSV file for queue name 03-smoker-B
+2024-05-30 21:41:42,549.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xcd\x00\x00\x00B\x0e\xcc\xcd'
+2024-05-30 21:41:42,551.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:47,553.emitter_tasks.INFO  [x] Read message 35.7 from CSV file for queue name 03-smoker-B
+2024-05-30 21:41:47,584.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xce@\x00\x00B\x0e\xcc\xcd'
+2024-05-30 21:41:47,586.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:52,588.emitter_tasks.INFO  [x] Read message 241.4 from CSV file for queue name 01-smoker
+2024-05-30 21:41:52,617.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xd4\x80\x00\x00Cqff'
+2024-05-30 21:41:52,619.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:41:57,620.emitter_tasks.INFO  [x] Read message 241.4 from CSV file for queue name 01-smoker
+2024-05-30 21:41:57,650.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xd5\xc0\x00\x00Cqff'
+2024-05-30 21:41:57,652.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:02,653.emitter_tasks.INFO  [x] Read message 39.1 from CSV file for queue name 02-smoker-A
+2024-05-30 21:42:02,675.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xda\xc0\x00\x00B\x1cff'
+2024-05-30 21:42:02,677.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:07,679.emitter_tasks.INFO  [x] Read message 39.1 from CSV file for queue name 02-smoker-A
+2024-05-30 21:42:07,709.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xdc\x00\x00\x00B\x1cff'
+2024-05-30 21:42:07,711.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:07,711.emitter_tasks.INFO  [x] Read message 36.0 from CSV file for queue name 03-smoker-B
+2024-05-30 21:42:07,718.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xdc\x00\x00\x00B\x10\x00\x00'
+2024-05-30 21:42:07,719.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:12,721.emitter_tasks.INFO  [x] Read message 36.0 from CSV file for queue name 03-smoker-B
+2024-05-30 21:42:12,754.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xdd@\x00\x00B\x10\x00\x00'
+2024-05-30 21:42:12,757.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:17,759.emitter_tasks.INFO  [x] Read message 242.1 from CSV file for queue name 01-smoker
+2024-05-30 21:42:17,773.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xe3\x80\x00\x00Cr\x19\x9a'
+2024-05-30 21:42:17,776.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:22,778.emitter_tasks.INFO  [x] Read message 242.1 from CSV file for queue name 01-smoker
+2024-05-30 21:42:22,792.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xe4\xc0\x00\x00Cr\x19\x9a'
+2024-05-30 21:42:22,794.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:27,796.emitter_tasks.INFO  [x] Read message 39.9 from CSV file for queue name 02-smoker-A
+2024-05-30 21:42:27,834.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xe9\xc0\x00\x00B\x1f\x99\x9a'
+2024-05-30 21:42:27,836.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:32,838.emitter_tasks.INFO  [x] Read message 39.9 from CSV file for queue name 02-smoker-A
+2024-05-30 21:42:32,865.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xeb\x00\x00\x00B\x1f\x99\x9a'
+2024-05-30 21:42:32,867.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:32,867.emitter_tasks.INFO  [x] Read message 36.0 from CSV file for queue name 03-smoker-B
+2024-05-30 21:42:32,874.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xeb\x00\x00\x00B\x10\x00\x00'
+2024-05-30 21:42:32,875.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:37,876.emitter_tasks.INFO  [x] Read message 36.0 from CSV file for queue name 03-smoker-B
+2024-05-30 21:42:37,887.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xec@\x00\x00B\x10\x00\x00'
+2024-05-30 21:42:37,889.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:42,890.emitter_tasks.INFO  [x] Read message 241.9 from CSV file for queue name 01-smoker
+2024-05-30 21:42:42,908.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xf2\x80\x00\x00Cq\xe6f'
+2024-05-30 21:42:42,911.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:47,913.emitter_tasks.INFO  [x] Read message 241.9 from CSV file for queue name 01-smoker
+2024-05-30 21:42:47,933.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*T\xf3\xc0\x00\x00Cq\xe6f'
+2024-05-30 21:42:47,936.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:42:52,938.emitter_tasks.INFO  [x] Read message 40.6 from CSV file for queue name 02-smoker-A
+2024-05-30 21:42:52,956.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*T\xf8\xc0\x00\x00B"ff'
+2024-05-30 21:42:52,959.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
