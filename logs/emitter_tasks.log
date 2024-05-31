@@ -724,3 +724,15 @@
 2024-05-30 21:42:57,983.emitter_tasks.INFO  [x] Read message 36.4 from CSV file for queue name 03-smoker-B
 2024-05-30 21:42:57,991.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xfa\x00\x00\x00B\x11\x99\x9a'
 2024-05-30 21:42:57,992.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:43:02,993.emitter_tasks.INFO  [x] Read message 36.4 from CSV file for queue name 03-smoker-B
+2024-05-30 21:43:03,009.emitter_tasks.INFO  [x] Encoded data sent to 03-smoker-B: b'A\xd8*T\xfb@\x00\x00B\x11\x99\x9a'
+2024-05-30 21:43:03,011.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:43:08,013.emitter_tasks.INFO  [x] Read message 242.1 from CSV file for queue name 01-smoker
+2024-05-30 21:43:08,022.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*U\x01\x80\x00\x00Cr\x19\x9a'
+2024-05-30 21:43:08,023.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:43:13,025.emitter_tasks.INFO  [x] Read message 242.1 from CSV file for queue name 01-smoker
+2024-05-30 21:43:13,033.emitter_tasks.INFO  [x] Encoded data sent to 01-smoker: b'A\xd8*U\x02\xc0\x00\x00Cr\x19\x9a'
+2024-05-30 21:43:13,036.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>
+2024-05-30 21:43:18,037.emitter_tasks.INFO  [x] Read message 41.4 from CSV file for queue name 02-smoker-A
+2024-05-30 21:43:18,065.emitter_tasks.INFO  [x] Encoded data sent to 02-smoker-A: b'A\xd8*U\x07\xc0\x00\x00B%\x99\x9a'
+2024-05-30 21:43:18,067.emitter_tasks.INFO  [x] Connection closed: <BlockingConnection impl=<SelectConnection CLOSED transport=None params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>>

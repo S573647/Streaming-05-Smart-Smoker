@@ -6,3 +6,4 @@
 2024-05-30 21:27:15,362.listening_worker.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker
 2024-05-30 21:27:15,362.listening_worker.INFO ==================================================
 2024-05-30 21:27:15,375.listening_worker.INFO Listening for messages on 3. Press CTRL+C to exit.
+2024-05-30 21:43:29,601.listening_worker.INFO Interrupted by user, shutting down.
