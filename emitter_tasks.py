@@ -58,7 +58,7 @@ def process_data(file_path: str) -> None:
                     timestamp = datetime.strptime(row[0], '%m/%d/%y %H:%M:%S').timestamp()
                     for index, temp in enumerate(row[1:], 1):
                         if temp:
-                            queue_name = f"0{index}-smoker" if index == 1 else f"0{index}-smoker-A" if index == 2 else f"0{index}-smoker-B"
+                            queue_name = f"0{index}-smoker" if index == 1 else f"0{index}-Food-A" if index == 2 else f"0{index}-Food-B"
                             smoker_message = struct.pack('!df', timestamp, float(temp))
                             logger.info(f" [x] Read message {temp} from CSV file for queue name {queue_name}")
                             send_data_to_queue("localhost", queue_name, smoker_message)
