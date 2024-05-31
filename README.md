@@ -4,15 +4,15 @@ streaming-05-smart-smoker project for Data streaming Data in Motion / data real 
 
 # Creating my own repo to complete the following tasks
 
-Implement your bbq producer. More detailed help provided in links below.
-Use the logic, approach, and structure from Module 4, version 2 and version 3.
-These provide a current and solid foundation for streaming analytics - modifying them to serve your purpose IS part of the assignment.
-Do not start from scratch - do not search for code - do not use a notebook.
-Use comments in the code and repo to explain your work.
-Use docstring comments and add your name and date to your README and your code files.
-Explain your project in the README. Include prerequisites and how to run your code.
+1. Implement your bbq producer. More detailed help provided in links below.
+1. Use the logic, approach, and structure from Module 4, version 2 and version 3.
+1. These provide a current and solid foundation for streaming analytics - modifying them to serve your purpose IS part of the assignment.
+1. Do not start from scratch - do not search for code - do not use a notebook.
+1. Use comments in the code and repo to explain your work.
+1. Use docstring comments and add your name and date to your README and your code files.
+1. Explain your project in the README. Include prerequisites and how to run your code.
 Document your project works - display screenshots of your console and maybe the RabbitMQ console.
-If you only have a producer, you won't have a consumer showing messages yet, so you'll need to be creative. We'll build the consumers next.
+1. If you only have a producer, you won't have a consumer showing messages yet, so you'll need to be creative. We'll build the consumers next.
 
 ## Read
 
