@@ -56,9 +56,9 @@ See a running example with at least 3 concurrent process windows here:
 ![Alt text for the image](images/image1.png)
 ![Alt text for the image](images/image2.png)
 ![Alt text for the image](images/image3.png)
-![Alt text for the image](images/Screenshot 2024-06-06 image4.png)
-![Alt text for the image](images/Screenshot 2024-06-06 image5.png)
-![Alt text for the image](images/Screenshot 2024-06-06 image6.png)
-![Alt text for the image](images/Screenshot 2024-06-06 image7.png)
+![Alt text for the image](images/image4.png)
+![Alt text for the image](images/image5.png)
+![Alt text for the image](images/image6.png)
+![Alt text for the image](images/image7.png)
 
 
