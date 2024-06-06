@@ -1,9 +1,107 @@
-2024-05-30 21:27:15,358.listening_worker.INFO ==================================================
-2024-05-30 21:27:15,359.listening_worker.INFO Today is 2024-05-30 at 09:27 PM
-2024-05-30 21:27:15,360.listening_worker.INFO Running on: nt Windows 11
-2024-05-30 21:27:15,361.listening_worker.INFO Python version:  3.12.1
-2024-05-30 21:27:15,361.listening_worker.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker\.venv
-2024-05-30 21:27:15,362.listening_worker.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker
-2024-05-30 21:27:15,362.listening_worker.INFO ==================================================
-2024-05-30 21:27:15,375.listening_worker.INFO Listening for messages on 3. Press CTRL+C to exit.
-2024-05-30 21:43:29,601.listening_worker.INFO Interrupted by user, shutting down.
+2024-06-06 17:53:16,093.listening_worker.INFO ==================================================
+2024-06-06 17:53:16,093.listening_worker.INFO Today is 2024-06-06 at 05:53 PM
+2024-06-06 17:53:16,094.listening_worker.INFO Running on: nt Windows 11
+2024-06-06 17:53:16,094.listening_worker.INFO Python version:  3.12.1
+2024-06-06 17:53:16,094.listening_worker.INFO Python path: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker\.venv
+2024-06-06 17:53:16,094.listening_worker.INFO Working dir: C:\MS\data_analytics\github\44671_DataStreaming\Streaming-05-Smart-Smoker
+2024-06-06 17:53:16,095.listening_worker.INFO ==================================================
+2024-06-06 17:53:19,007.listening_worker.INFO Received from food B: 2021-05-22 15:19:40, Temperature: 114.5F
+2024-06-06 17:53:24,019.listening_worker.INFO Received from food B: 2021-05-22 15:19:45, Temperature: 114.5F
+2024-06-06 17:53:44,090.listening_worker.INFO Received from food B: 2021-05-22 15:20:40, Temperature: 115.0999984741211F
+2024-06-06 17:53:49,105.listening_worker.INFO Received from food B: 2021-05-22 15:20:45, Temperature: 115.0999984741211F
+2024-06-06 17:54:09,178.listening_worker.INFO Received from food B: 2021-05-22 15:21:40, Temperature: 115.80000305175781F
+2024-06-06 17:54:14,192.listening_worker.INFO Received from food B: 2021-05-22 15:21:45, Temperature: 115.80000305175781F
+2024-06-06 17:54:34,272.listening_worker.INFO Received from food B: 2021-05-22 15:22:40, Temperature: 116.4000015258789F
+2024-06-06 17:54:39,282.listening_worker.INFO Received from food B: 2021-05-22 15:22:45, Temperature: 116.4000015258789F
+2024-06-06 17:54:59,356.listening_worker.INFO Received from food B: 2021-05-22 15:23:40, Temperature: 117.0F
+2024-06-06 17:55:04,375.listening_worker.INFO Received from food B: 2021-05-22 15:23:45, Temperature: 117.0F
+2024-06-06 17:55:24,448.listening_worker.INFO Received from food B: 2021-05-22 15:24:40, Temperature: 117.69999694824219F
+2024-06-06 17:55:29,456.listening_worker.INFO Received from food B: 2021-05-22 15:24:45, Temperature: 117.69999694824219F
+2024-06-06 17:55:49,537.listening_worker.INFO Received from food B: 2021-05-22 15:25:40, Temperature: 118.19999694824219F
+2024-06-06 17:55:54,548.listening_worker.INFO Received from food B: 2021-05-22 15:25:45, Temperature: 118.19999694824219F
+2024-06-06 17:56:14,631.listening_worker.INFO Received from food B: 2021-05-22 15:26:40, Temperature: 118.80000305175781F
+2024-06-06 17:56:19,648.listening_worker.INFO Received from food B: 2021-05-22 15:26:45, Temperature: 118.80000305175781F202024-06-06 17:56:39,719.listening_worker.INFO Received from food B: 2021-05-22 15:27:40, Temperature: 119.4000015258789F
+2024-06-06 17:56:44,730.listening_worker.INFO Received from food B: 2021-05-22 15:27:45, Temperature: 119.4000015258789F202024-06-06 17:57:04,803.listening_worker.INFO Received from food B: 2021-05-22 15:28:40, Temperature: 120.0F
+2024-06-06 17:57:09,819.listening_worker.INFO Received from food B: 2021-05-22 15:28:45, Temperature: 120.0F
+2024-06-06 17:57:09,819.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:28:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 120.0F
+2024-06-06 17:57:29,917.listening_worker.INFO Received from food B: 2021-05-22 15:29:40, Temperature: 120.5F
+2024-06-06 17:57:29,918.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:29:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 120.5F
+2024-06-06 17:57:34,931.listening_worker.INFO Received from food B: 2021-05-22 15:29:45, Temperature: 120.5F
+2024-06-06 17:57:34,933.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:29:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 120.5F
+2024-06-06 17:57:55,036.listening_worker.INFO Received from food B: 2021-05-22 15:30:40, Temperature: 121.0999984741211F
+2024-06-06 17:57:55,038.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:30:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 121.0999984741211F
+2024-06-06 17:58:00,050.listening_worker.INFO Received from food B: 2021-05-22 15:30:45, Temperature: 121.0999984741211F
+2024-06-06 17:58:00,051.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:30:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 121.0999984741211F
+2024-06-06 17:58:20,154.listening_worker.INFO Received from food B: 2021-05-22 15:31:40, Temperature: 121.69999694824219F
+2024-06-06 17:58:20,154.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:31:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 121.69999694824219F
+2024-06-06 17:58:25,169.listening_worker.INFO Received from food B: 2021-05-22 15:31:45, Temperature: 121.69999694824219F
+2024-06-06 17:58:25,170.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:31:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 121.69999694824219F
+2024-06-06 17:58:45,248.listening_worker.INFO Received from food B: 2021-05-22 15:32:40, Temperature: 122.19999694824219F
+2024-06-06 17:58:45,249.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:32:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 122.19999694824219F
+2024-06-06 17:58:50,264.listening_worker.INFO Received from food B: 2021-05-22 15:32:45, Temperature: 122.19999694824219F
+2024-06-06 17:58:50,266.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:32:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 122.19999694824219F
+2024-06-06 17:59:10,341.listening_worker.INFO Received from food B: 2021-05-22 15:33:40, Temperature: 122.69999694824219F
+2024-06-06 17:59:10,341.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:33:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 122.69999694824219F
+2024-06-06 17:59:15,356.listening_worker.INFO Received from food B: 2021-05-22 15:33:45, Temperature: 122.69999694824219F
+2024-06-06 17:59:15,357.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:33:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 122.69999694824219F
+2024-06-06 17:59:35,426.listening_worker.INFO Received from food B: 2021-05-22 15:34:40, Temperature: 123.30000305175781F
+2024-06-06 17:59:35,427.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:34:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 123.30000305175781F
+2024-06-06 17:59:40,441.listening_worker.INFO Received from food B: 2021-05-22 15:34:45, Temperature: 123.30000305175781F
+2024-06-06 17:59:40,442.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:34:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 123.30000305175781F
+2024-06-06 18:00:00,507.listening_worker.INFO Received from food B: 2021-05-22 15:35:40, Temperature: 123.80000305175781F
+2024-06-06 18:00:00,508.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:35:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 123.80000305175781F
+2024-06-06 18:00:05,523.listening_worker.INFO Received from food B: 2021-05-22 15:35:45, Temperature: 123.80000305175781F
+2024-06-06 18:00:05,524.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:35:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 123.80000305175781F
+2024-06-06 18:00:25,602.listening_worker.INFO Received from food B: 2021-05-22 15:36:40, Temperature: 124.30000305175781F
+2024-06-06 18:00:25,603.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:36:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 124.30000305175781F
+2024-06-06 18:00:30,614.listening_worker.INFO Received from food B: 2021-05-22 15:36:45, Temperature: 124.30000305175781F
+2024-06-06 18:00:30,617.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:36:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 124.30000305175781F
+2024-06-06 18:00:50,705.listening_worker.INFO Received from food B: 2021-05-22 15:37:40, Temperature: 124.80000305175781F
+2024-06-06 18:00:50,706.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:37:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 124.80000305175781F
+2024-06-06 18:00:55,721.listening_worker.INFO Received from food B: 2021-05-22 15:37:45, Temperature: 124.80000305175781F
+2024-06-06 18:00:55,722.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:37:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 124.80000305175781F
+2024-06-06 18:01:15,834.listening_worker.INFO Received from food B: 2021-05-22 15:38:40, Temperature: 125.30000305175781F
+2024-06-06 18:01:15,835.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:38:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 125.30000305175781F
+2024-06-06 18:01:20,849.listening_worker.INFO Received from food B: 2021-05-22 15:38:45, Temperature: 125.30000305175781F
+2024-06-06 18:01:20,850.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:38:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 125.30000305175781F
+2024-06-06 18:01:40,937.listening_worker.INFO Received from food B: 2021-05-22 15:39:40, Temperature: 125.80000305175781F
+2024-06-06 18:01:40,938.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:39:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 125.80000305175781F
+2024-06-06 18:01:45,957.listening_worker.INFO Received from food B: 2021-05-22 15:39:45, Temperature: 125.80000305175781F
+2024-06-06 18:01:45,958.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:39:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 125.80000305175781F
+2024-06-06 18:02:06,034.listening_worker.INFO Received from food B: 2021-05-22 15:40:40, Temperature: 126.30000305175781F
+2024-06-06 18:02:06,034.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:40:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 126.30000305175781F
+2024-06-06 18:02:11,050.listening_worker.INFO Received from food B: 2021-05-22 15:40:45, Temperature: 126.30000305175781F
+2024-06-06 18:02:11,051.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:40:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 126.30000305175781F
+2024-06-06 18:02:31,130.listening_worker.INFO Received from food B: 2021-05-22 15:41:40, Temperature: 126.69999694824219F
+2024-06-06 18:02:31,131.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:41:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 126.69999694824219F
+2024-06-06 18:02:36,146.listening_worker.INFO Received from food B: 2021-05-22 15:41:45, Temperature: 126.69999694824219F
+2024-06-06 18:02:36,147.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:41:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 126.69999694824219F
+2024-06-06 18:02:56,235.listening_worker.INFO Received from food B: 2021-05-22 15:42:40, Temperature: 127.19999694824219F
+2024-06-06 18:02:56,236.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:42:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 127.19999694824219F
+2024-06-06 18:03:01,268.listening_worker.INFO Received from food B: 2021-05-22 15:42:45, Temperature: 127.19999694824219F
+2024-06-06 18:03:01,268.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:42:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 127.19999694824219F
+2024-06-06 18:03:21,352.listening_worker.INFO Received from food B: 2021-05-22 15:43:40, Temperature: 127.69999694824219F
+2024-06-06 18:03:21,355.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:43:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 127.69999694824219F
+2024-06-06 18:03:26,383.listening_worker.INFO Received from food B: 2021-05-22 15:43:45, Temperature: 127.69999694824219F
+2024-06-06 18:03:26,383.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:43:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 127.699996948242024-02024-06-06 18:03:46,476.listening_worker.INFO Received from food B: 2021-05-22 15:44:40, Temperature: 128.1999969482422F
+2024-06-06 18:03:46,477.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:44:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 128.1999969482422F
+2024-06-06 18:03:51,511.listening_worker.INFO Received from food B: 2021-05-22 15:44:45, Temperature: 128.1999969482422F
+2024-06-06 18:03:51,511.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:44:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 128.1999969482422F202024-06-06 18:04:11,603.listening_worker.INFO Received from food B: 2021-05-22 15:45:40, Temperature: 128.60000610351562F
+2024-06-06 18:04:11,604.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:45:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 128.60000610351562F
+2024-06-06 18:04:16,621.listening_worker.INFO Received from food B: 2021-05-22 15:45:45, Temperature: 128.60000610351562F
+2024-06-06 18:04:16,622.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:45:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 128.60000610351562F202024-06-06 18:04:36,758.listening_worker.INFO Received from food B: 2021-05-22 15:46:40, Temperature: 129.10000610351562F
+2024-06-06 18:04:36,759.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:46:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 129.10000610351562F
+2024-06-06 18:04:41,776.listening_worker.INFO Received from food B: 2021-05-22 15:46:45, Temperature: 129.10000610351562F
+2024-06-06 18:04:41,778.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:46:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 129.100006103512024-02024-06-06 18:05:01,879.listening_worker.INFO Received from food B: 2021-05-22 15:47:40, Temperature: 129.5F
+2024-06-06 18:05:01,880.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:47:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 129.5F
+2024-06-06 18:05:06,897.listening_worker.INFO Received from food B: 2021-05-22 15:47:45, Temperature: 129.5F
+2024-06-06 18:05:06,898.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:47:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 129.5F
+2024-06-06 18:05:27,017.listening_worker.INFO Received from food B: 2021-05-22 15:48:40, Temperature: 130.0F
+2024-06-06 18:05:27,018.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:48:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 130.0F
+2024-06-06 18:05:32,035.listening_worker.INFO Received from food B: 2021-05-22 15:48:45, Temperature: 130.0F
+2024-06-06 18:05:32,036.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:48:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 130.0F
+2024-06-06 18:05:52,137.listening_worker.INFO Received from food B: 2021-05-22 15:49:40, Temperature: 130.39999389648438F
+2024-06-06 18:05:52,138.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:49:40 Food B temperature change is more than 1F in the last 10 minutes! current temperature 130.39999389648438F
+2024-06-06 18:05:57,156.listening_worker.INFO Received from food B: 2021-05-22 15:49:45, Temperature: 130.39999389648438F
+2024-06-06 18:05:57,156.listening_worker.INFO *****Food B Alert******: 2021-05-22 15:49:45 Food B temperature change is more than 1F in the last 10 minutes! current temperature 130.39999389648438F
+10 minutes! , current temperature 136.5F
